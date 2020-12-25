@@ -4,4 +4,5 @@
 - Nebuď čtenář <br>
 - Nebuď kokot <br>
 - Neukradneš <br>
+  [Invite na discord](https://discord.gg/wuhNjKQGRv)
 </div>
