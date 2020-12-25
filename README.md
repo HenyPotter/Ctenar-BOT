@@ -4,6 +4,8 @@
 - Nebuď čtenář <br>
 - Nebuď kokot <br>
 - Neukradneš <br>
+  <br>
+  <br>
   https://discord.gg/wuhNjKQGRv
 </div>
 
