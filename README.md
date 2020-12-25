@@ -6,4 +6,4 @@
 - Neukradneš <br>
   
 </div>
-[Invite na discord](https://discord.gg/wuhNjKQGRv)
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
