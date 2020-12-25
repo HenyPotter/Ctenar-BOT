@@ -4,6 +4,6 @@
 - Nebuď čtenář <br>
 - Nebuď kokot <br>
 - Neukradneš <br>
-  
+  https://discord.gg/wuhNjKQGRv
 </div>
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
