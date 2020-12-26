@@ -8,4 +8,4 @@
   <br>
   https://discord.gg/wuhNjKQGRv
   </div>
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT&theme=great-gatsby)](https://github.com/HenyPotter/Ctenar-BOT)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT&theme=great-gatsby>"[![Card](https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT&theme=great-gatsby)](https://github.com/HenyPotter/Ctenar-BOT)
