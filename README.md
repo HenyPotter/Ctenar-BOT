@@ -7,5 +7,6 @@
   <br>
   <br>
   https://discord.gg/wuhNjKQGRv
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT)](https://github.com/HenyPotter/Ctenar-BOT)
 </div>
 
