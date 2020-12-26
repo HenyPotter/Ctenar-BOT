@@ -7,7 +7,7 @@
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT&theme=great-gatsby&show_owner=true"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenyPotterk&repo=Ctenar-BOT&show_owner=true&theme=great-gatsby"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT&show_owner=true&theme=great-gatsby"
   https://discord.gg/wuhNjKQGRv
   
   </div>
