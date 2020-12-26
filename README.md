@@ -6,7 +6,7 @@
 - Neukradneš <br>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT&theme=great-gatsby><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenyPotter&repo=Ctenar-BOT&theme=great-gatsby">
   https://discord.gg/wuhNjKQGRv
   
   </div>
